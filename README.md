@@ -28,8 +28,9 @@ The PhoneBook Directory System is a simple console-based C++ application that al
 4. Run the Program:
    ```bash
    ./phonebook
+   ```
 
-                         ## File Structure
+##File Structure
    
 - `pb.cpp`: Contains the main source code for the PhoneBook Directory System.
 - `phonebook.txt`: Stores the contacts data.
