@@ -34,9 +34,6 @@ The PhoneBook Directory System is a simple console-based C++ application that al
 - `pb.cpp`: Contains the main source code for the PhoneBook Directory System.
 - `phonebook.txt`: Stores the contacts data.
 
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Contact
 For any questions or feedback, feel free to reach out at ayushrai2814@gmail.com
  
